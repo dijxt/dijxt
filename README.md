@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps, Big Data**
 
-- 👨‍💻 All of my projects are available at [dijxt.github.io/portfolio](dijxt.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [dijxt.github.io/portfolio](https://dijxt.github.io/portfolio)
 
 - 💬 Ask me about **{Software, Data} Engineering**
 
