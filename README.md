@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [dijxt.github.io/portfolio](https://dijxt.github.io/portfolio)
 
-- 💬 Ask me about **{Software, Data} Engineering**
+- 💬 Ask me about **Software/Data Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
